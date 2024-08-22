@@ -1,0 +1,66 @@
+<!DOCTYPE html>  
+<html lang="en">  
+<head>  
+    <meta charset="UTF-8">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <title>Static Web</title>  
+    <style>  
+        body {  
+            font-family: Arial, sans-serif;  
+            text-align: center;  
+            margin: 20px;  
+        }  
+        img {  
+            max-width: 100%;  
+            height: auto;  
+        }  
+    </style>  
+</head>  
+<body>  
+    <h1>Chào</h1>  
+    <p>Tôi là Hoài Anh (aka Thur)</p>  
+    <img src="images/my-image.jpg" alt="Miêu tả hình ảnh">  
+</body>  
+</html>
+
+
+
+<!DOCTYPE html>  
+<html lang="en">  
+<head>  
+    <meta charset="UTF-8">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <title>My Static Web Page</title>  
+    <style>  
+        body {  
+            font-family: Arial, sans-serif;  
+            line-height: 1.6;  
+            margin: 0;  
+            padding: 20px;  
+            background-color: #f4f4f4;  
+        }  
+        .container {  
+            max-width: 800px;  
+            margin: auto;  
+            background: white;  
+            padding: 20px;  
+            border-radius: 5px;  
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);  
+        }  
+        img {  
+            max-width: 100%;  
+            height: auto;  
+            display: block;  
+            margin: 20px auto;  
+        }  
+    </style>  
+</head>  
+<body>  
+    <div class="container">  
+        <h1>Hi</h1>  
+        <p>My name is Hoài Anh (aka Thur)</p>  
+        <img src="https://github.com/yourusername/your-repo-name/raw/main/images/example-image.jpg" alt="Example Image">  
+        <p>Above is an example image.</p>  
+    </div>  
+</body>  
+</html>
